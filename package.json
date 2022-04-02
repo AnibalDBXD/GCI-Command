@@ -1,0 +1,14 @@
+{
+    "name": "gci",
+    "version": "0.0.1",
+    "description": "Git clone -> code . -> npm install",
+    "main": "index.js",
+    "scripts": {
+     "start": "node ./index.js"
+    },
+    "bin": {
+     "gci": "./index.js"
+    },
+    "author": "AnibalDBXD",
+    "license": "ISC"
+}
