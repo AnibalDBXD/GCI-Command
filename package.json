@@ -1,6 +1,6 @@
 {
-    "name": "gci",
-    "version": "0.0.1",
+    "name": "gci-command",
+    "version": "1.0.0",
     "description": "Git clone -> code . -> npm install",
     "main": "index.js",
     "scripts": {
